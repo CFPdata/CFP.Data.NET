@@ -6,6 +6,9 @@ namespace CFP.Data.NET
 {
     public class Event
     {
+        /// <summary>Unique ID identifying the event.</summary>
+        public Guid Id { get; set; }
+
         /// <summary>Name of the event</summary>
         public string Name { get; set; }
 
