@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30420.98
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CFP.Data.NET", "CFP.Data.NET\CFP.Data.NET.csproj", "{0E8EA9C1-D413-4CB3-BA3F-A2FF349D1C53}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E8EA9C1-D413-4CB3-BA3F-A2FF349D1C53}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E8EA9C1-D413-4CB3-BA3F-A2FF349D1C53}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E8EA9C1-D413-4CB3-BA3F-A2FF349D1C53}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E8EA9C1-D413-4CB3-BA3F-A2FF349D1C53}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BE0AFC1-8DE2-44C6-AAC6-1BBB0F8C2C30}
+	EndGlobalSection
+EndGlobal
