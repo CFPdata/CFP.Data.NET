@@ -2,6 +2,13 @@
 
   <PropertyGroup>
     <TargetFramework>netstandard2.0</TargetFramework>
+    <Version>0.1.0</Version>
+    <Authors>CFPdata</Authors>
+    <Company>CFPdata</Company>
+    <Product>CFPdata</Product>
+    <Copyright>Copyright 2020 CFPdata</Copyright>
+    <RepositoryUrl>https://github.com/CFPdata/CFP.Data.NET</RepositoryUrl>
+    <Description>.NET implementation of the https://github.com/CFPdata CFP model</Description>
   </PropertyGroup>
 
 </Project>
