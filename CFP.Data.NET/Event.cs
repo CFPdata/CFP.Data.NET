@@ -12,6 +12,9 @@ namespace CFP.Data.NET
         /// <summary>Name of the event</summary>
         public string Name { get; set; }
 
+        /// <summary>Description of the event</summary>
+        public string Description { get; set; }
+
         /// <summary>Start date of the event in <see cref="DateTimeOffset"/>.</summary>
         public DateTimeOffset StartDate { get; set; }
 
@@ -23,5 +26,8 @@ namespace CFP.Data.NET
 
         /// <summary>Type of the event.</summary>
         public EventType Type { get; set; }
+
+        /// <summary>Uri of the event.</summary>
+        public Uri Url { get; set; }
     }
 }
